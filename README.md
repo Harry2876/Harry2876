@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
 <h1 align="center">Hi 👋, I'm Hariom Harsh</h1>
 <h3 align="center">A passionate Native Android developer from India</h3>
 
