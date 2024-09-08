@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **acbcharryxyz@gmail.com**
 
-- 📄 Know about my projects [agaaz.co.in](agaaz.co.in)
+- 📄 Know about my projects [Agaaz Fest](https://github.com/Harry2876/Event-webpage)
   
 -  **Medallion Of Excellence in Mobile Applications Development at India Skills National Competition**
   
