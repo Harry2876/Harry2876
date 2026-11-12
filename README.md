@@ -1,24 +1,21 @@
-<h1 align="center">Hi, I'm Hariom Harsh 👋</h1>
-
 <p align="center">
-  Backend &amp; Native Android Developer · Real-time Computer Vision · India 🇮🇳
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/main/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/main/header-light.svg" />
+    <img alt="Hariom Harsh" src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/header-light.svg" width="800" />
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/hariom-harsh"><img src="https://img.shields.io/badge/LinkedIn-hariom--harsh-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Harry2876?tab=followers"><img src="https://img.shields.io/github/followers/Harry2876?style=flat&logo=github&label=Followers" alt="GitHub followers" /></a>
   <a href="mailto:mail2harshhariom@gmail.com"><img src="https://img.shields.io/badge/Email-mail2harshhariom@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Harry2876?tab=followers"><img src="https://img.shields.io/github/followers/Harry2876?style=flat&logo=github&label=Followers" alt="GitHub followers" /></a>
 </p>
 
----
-
-### What I do
-
-- **Backend systems:** REST APIs, real-time services, queues, and databases with Node.js, TypeScript, PostgreSQL, and Redis
-- **Native Android:** apps built with Kotlin and Jetpack Compose
-- **Computer vision &amp; live broadcast tech:** pipelines that read live game video and drive on-screen graphics in real time
-
-I'm a Computer Science (AI) student at Government Engineering College Lakhisarai.
+<p align="center">
+  Computer Science (AI) student at Government Engineering College Lakhisarai, India 🇮🇳<br />
+  I build backend systems, native Android apps, and real-time computer vision tools.
+</p>
 
 ### Highlights
 
@@ -44,9 +41,7 @@ I'm a Computer Science (AI) student at Government Engineering College Lakhisarai
   </tr>
 </table>
 
-🎓 **NPTEL:** Internet of Things, Silver Badge
-
-### What I've built
+### Projects
 
 Most of my work is private, and I'm happy to demo it on a call. The skiing game is public.
 
@@ -57,36 +52,26 @@ Most of my work is private, and I'm happy to demo it on a call. The skiing game 
 | **Observer HUD** | Desktop app that processes live video and renders team-branded overlays | Electron, C++, OpenCV, NDI, ONNX Runtime |
 | [**Skiing Game**](https://github.com/Harry2876/skiing_game) | Android skiing game for the IndiaSkills test module: tap to jump, collect coins, dodge obstacles, invincibility power-up, local leaderboard, music and sound effects | Kotlin, Jetpack Compose |
 
-### Tech stack
+### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,js,ts,py,c,cpp,html,css&perline=9" alt="Languages" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,electron,postgres,mongodb,redis,prisma,docker,nginx,aws,gcp,git,pytorch,opencv&perline=15" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,js,ts,py,c,cpp,nodejs,express,react,electron,postgres,mongodb,redis,prisma,docker,nginx,aws,gcp,git,pytorch,opencv&perline=12" alt="Tech stack" />
 </p>
 
-### GitHub stats
+### Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="49%" />
-  <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/main/assets/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/main/assets/stats-light.svg" />
+    <img alt="GitHub stats" src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/assets/stats-light.svg" width="800" />
+  </picture>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" width="49%" />
-  <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
-</p>
-
-### Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Harry2876/Harry2876/output/github-snake.svg" />
-</picture>
-
----
 
 <p align="center">
-  Ask me about <b>Android</b>, <b>Node.js backends</b>, and <b>computer vision</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Harry2876/Harry2876/output/github-snake.svg" />
+  </picture>
 </p>
