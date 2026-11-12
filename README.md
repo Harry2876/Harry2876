@@ -25,7 +25,7 @@ I'm a Computer Science (AI) student at Government Engineering College Lakhisarai
 <table>
   <tr>
     <td width="120" align="center">
-      <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/assets/indiaskills.png" width="90" alt="IndiaSkills" />
+      <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/indiaskills.png" width="90" alt="IndiaSkills" />
     </td>
     <td>
       <b>IndiaSkills, Mobile Application Development</b><br />
@@ -35,7 +35,7 @@ I'm a Computer Science (AI) student at Government Engineering College Lakhisarai
   </tr>
   <tr>
     <td width="120" align="center">
-      <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/assets/nodwin.png" width="70" alt="NODWIN Gaming" />
+      <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/nodwin.png" width="70" alt="NODWIN Gaming" />
     </td>
     <td>
       <b>NODWIN Gaming, BGMI Masters Series 2026</b><br />
@@ -64,6 +64,17 @@ Most of my work is private, and I'm happy to demo it on a call. The skiing game 
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,electron,postgres,mongodb,redis,prisma,docker,nginx,aws,gcp,git,pytorch,opencv&perline=15" alt="Tools" />
+</p>
+
+### GitHub stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="49%" />
+  <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
 </p>
 
 ### Contributions
