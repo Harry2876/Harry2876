@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="214" viewBox="0 0 800 214" role="img" aria-label="GitHub stats for Harry2876">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.num{font-size:30px;font-weight:700;fill:#e6edf3}
+.lb{font-size:12px;fill:#8b949e}
+.lg{font-size:13px;fill:#e6edf3}
+.mu{fill:#8b949e}
+.ft{font-size:11px;fill:#8b949e}
+</style>
+<rect x="0.5" y="0.5" width="799" height="213" rx="14" fill="none" stroke="#30363d"/>
+<text x="40" y="68" class="num">681</text><text x="40" y="90" class="lb">contributions, last year</text><text x="220" y="68" class="num">640</text><text x="220" y="90" class="lb">commits, last year</text><text x="400" y="68" class="num">4</text><text x="400" y="90" class="lb">pull requests</text><text x="580" y="68" class="num">115</text><text x="580" y="90" class="lb">repositories</text>
+<line x1="40" y1="108" x2="760" y2="108" stroke="#30363d"/>
+<clipPath id="c"><rect x="40" y="132" width="720" height="8" rx="4"/></clipPath>
+<g clip-path="url(#c)"><rect x="40" y="132" width="720" height="8" fill="#30363d"/><rect x="40.0" y="132" width="387.6" height="8" fill="#3178c6"/><rect x="427.6" y="132" width="181.5" height="8" fill="#A97BFF"/><rect x="609.1" y="132" width="59.1" height="8" fill="#f34b7d"/><rect x="668.1" y="132" width="55.9" height="8" fill="#3572A5"/><rect x="724.1" y="132" width="35.9" height="8" fill="#f1e05a"/></g>
+<circle cx="45.0" cy="166" r="5" fill="#3178c6"/><text x="56.0" y="170" class="lg">TypeScript <tspan class="mu">54%</tspan></text><circle cx="189.0" cy="166" r="5" fill="#A97BFF"/><text x="200.0" y="170" class="lg">Kotlin <tspan class="mu">25%</tspan></text><circle cx="333.0" cy="166" r="5" fill="#f34b7d"/><text x="344.0" y="170" class="lg">C++ <tspan class="mu">8%</tspan></text><circle cx="477.0" cy="166" r="5" fill="#3572A5"/><text x="488.0" y="170" class="lg">Python <tspan class="mu">8%</tspan></text><circle cx="621.0" cy="166" r="5" fill="#f1e05a"/><text x="632.0" y="170" class="lg">JavaScript <tspan class="mu">5%</tspan></text>
+<text x="40" y="198" class="ft">Most used languages · includes private repositories · updated daily</text>
+</svg>
