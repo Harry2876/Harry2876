@@ -70,6 +70,14 @@ Most of my work is private, and I'm happy to demo it on a call. The skiing game 
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/main/assets/ticker-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/main/assets/ticker-light.svg" />
+    <img alt="Rotating highlights" src="https://raw.githubusercontent.com/Harry2876/Harry2876/main/assets/ticker-light.svg" width="800" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harry2876/Harry2876/output/github-snake.svg" />
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Harry2876/Harry2876/output/github-snake.svg" />
